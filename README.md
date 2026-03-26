@@ -7,6 +7,7 @@
 - `IDENTITY.md`：助手的身份设定
 - `USER.md`：用户信息与偏好
 - `MEMORY.md`：长期记忆
+- `MEMORY_RULES.md`：记忆维护规则
 - `memory/YYYY-MM-DD.md`：每日记录
 - `SOUL.md`：助手的行为风格与原则
 - `AGENTS.md`：工作区约定

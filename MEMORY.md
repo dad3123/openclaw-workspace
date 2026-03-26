@@ -14,3 +14,5 @@
 - 已为 workspace 配置 git 身份：`dad3123 <zhaoxiangjun@xiaolian.link>`。
 - GitHub 仓库已连接：`https://github.com/dad3123/openclaw-workspace`。
 - 当前仓库用于保存 workspace 设定、记忆和相关文件。
+- 运行中的 OpenClaw Docker 环境已配置 git 凭证缓存，后续常规 push 可由助手直接完成。
+- 仓库已建立 `README.md` 和 `MEMORY_RULES.md`，用于说明结构与规范记忆维护流程。
